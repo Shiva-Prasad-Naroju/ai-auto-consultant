@@ -1,6 +1,6 @@
-# 🚗 AI Auto Consultant — Intelligent Car Specs Advisor
+# 🚗 AI Automotive Consultant — Intelligent Car Specs Advisor
 
-Welcome to **AI Auto Consultant**, an advanced AI-powered platform designed to help users make informed decisions when buying a car. 
+Welcome to **AI Automotive Consultant**, an advanced AI-powered platform designed to help users make informed decisions when buying a car. 
 
 Leveraging a multi-agent architecture orchestrated by LangGraph and powered by Groq’s LLM models, this system dynamically retrieves detailed car specifications and generates insightful, buyer-focused evaluations.
 
@@ -8,9 +8,9 @@ Leveraging a multi-agent architecture orchestrated by LangGraph and powered by G
 
 AI Auto Consultant integrates state-of-the-art technologies to deliver personalized and comprehensive car advice. The platform consists of two intelligent agents working in harmony:
 
-    - **Spec Retriever Agent**: Fetches accurate car specifications from a curated dataset.
+- **Spec Retriever Agent**: Fetches accurate car specifications from a curated dataset.
 
-    - **Evaluator Agent**: Uses Groq’s large language models (LLM) to analyze the retrieved specs and produce detailed, easy-to-understand evaluations tailored for potential buyers.
+- **Evaluator Agent**: Uses Groq’s large language models (LLM) to analyze the retrieved specs and produce detailed, easy-to-understand evaluations tailored for potential buyers.
 
 This setup exemplifies how AI agents can be orchestrated effectively to solve complex real-world problems by combining retrieval and generative AI in a seamless workflow.
 
