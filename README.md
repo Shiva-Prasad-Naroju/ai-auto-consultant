@@ -41,13 +41,13 @@ This setup exemplifies how AI agents can be orchestrated effectively to solve co
 
 ## 📚 Learnings & Skills Demonstrated
 
-    - Mastery of "Multi-Agent system design" and workflow orchestration using LangGraph.  
+- Mastery of "Multi-Agent system design" and workflow orchestration using LangGraph.  
 
-    - Practical experience with "State Management" and sequential task execution.  
+- Practical experience with "State Management" and sequential task execution.  
     
-    - Integration of Groq’s LLM API for advanced natural language generation.  
+- Integration of Groq’s LLM API for advanced natural language generation.  
     
-    - Effective environment variable management using `dotenv` for secure API key handling.  
+- Effective environment variable management using `dotenv` for secure API key handling.  
 
 
 Thank you for exploring the AI Auto Consultant — where AI meets automotive expertise! 🚀
